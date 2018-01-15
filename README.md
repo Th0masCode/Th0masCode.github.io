@@ -1,0 +1,4 @@
+# Th0masCode.github.io
+Dis ma stuff
+<BR><BR>
+FUCKING SHIT GITHUB CAN BE ANNOYING WORK GOD DAMNIT
