@@ -2,5 +2,6 @@ body {background: linear-gradient(to bottom right, yellow, orange, red, violet, 
 	 Width: 100%;	 
 	 height: 100%;
 	
-	 }
-	 
+}
+html {min-height: 100%;
+}
