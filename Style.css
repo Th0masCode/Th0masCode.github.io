@@ -8,7 +8,7 @@
 	 }
 body 
 	 {background-image: url(Background.png);
-	 background-size: contain;	 
+	 background-size: Cover;	 
 	 height:100%;
      }
 html 
