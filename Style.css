@@ -10,6 +10,7 @@ body
 	 {background-image: url(Background.png);
 	 background-size: contain;	 
 	 height:100%;
+	 resize: both;
      }
 html 
 	 {min-height:100%;
