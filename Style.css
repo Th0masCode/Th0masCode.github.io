@@ -8,7 +8,11 @@
 	 }
 body 
 	 {background-image: url(Background.png);
+<<<<<<< HEAD
 	 background-size: cover;	 
+=======
+	 background-size: Cover;	 
+>>>>>>> origin/master
 	 height:100%;
 	 resize: both;
      }
